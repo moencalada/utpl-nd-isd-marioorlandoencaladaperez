@@ -5,5 +5,5 @@
 
 * rosita
 * manuel
-
-Estudio en la [Universidad Particular de Loja](https://www.utpl.edu.ec/)
+* Estudio en la [Universidad Particular de Loja](https://www.utpl.edu.ec/
+* yo trabajo en el banco [Internacional](https://https://www.bancointernacional.com.ec//).
